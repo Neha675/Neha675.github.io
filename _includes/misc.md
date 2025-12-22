@@ -3,8 +3,8 @@
 <ul style="margin:0 0 5px;">
   <li>
     <autocolor>
-      <strong>Outdoor Enthusiast:</strong> I love hiking and have visited 8 National Parks so far.
-      (Check out some pictures from my treks below!)
+      <strong>Outdoor Enthusiast:</strong> I love hiking and have visited quite a few National Parks here in US.
+      (Pictures from my treks coming soon!)
     </autocolor>
   </li>
   <li>
