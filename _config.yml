@@ -55,3 +55,7 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
+
+
+header_pages:
+  - fun.md
