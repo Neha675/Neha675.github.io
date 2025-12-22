@@ -21,8 +21,7 @@
   </li>
   <li>
     <autocolor>
-      <strong>Reading:</strong> In my free time, I enjoy reading fiction and recently picked up non-fiction as well. 
-      My favorite author is Khaled Hosseini, and my top novels are <em>The Fountainhead</em> by Ayn Rand and <em>And the Mountains Echoed</em> by Khaled Hosseini.
+      <strong>Reading:</strong> In my free time, I am an avid reader of fiction, though I have recently started exploring non-fiction as well. My favorite author is Khaled Hosseini. Two books that have left a lasting impact on me are <em>The Fountainhead</em> by Ayn Rand and <em>And the Mountains Echoed</em> by Khaled Hosseini.
     </autocolor>
   </li>
 </ul>
