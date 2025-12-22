@@ -8,7 +8,7 @@ I am a final year Ph.D. student at Carnegie Mellon University. I am very fortuna
 
 My research lies at the nexus of **Operations Research, Machine Learning, and Public Policy**, with a primary focus on designing **robust and sustainable transportation systems**. I develop **data-driven methodologies** to enhance **collaborative logistics** and operational reliability, aiming to create adaptive networks that can effectively mitigate delays and uncertainties.
 
-Prior to my doctoral studies, I spent two years at the Xerox Research Centre in Bangalore working in the Algorithms and Optimization group, where I collaborated with Dr. [Koyel Mukherjee](https://research.adobe.com/person/koyel-mukherjee/). I subsequently worked as a Project Associate at the CiSTUP center at IISc Bangalore for one year, where I worked with Prof. [Tarun Rambha](http://civil.iisc.ac.in/~tarunr/).
+Prior to my doctoral studies, I spent two years at the Xerox Research Centre in Bangalore working in the Algorithms and Optimization group, where I collaborated with Dr. [Koyel Mukherjee](https://research.adobe.com/person/koyel-mukherjee/). I subsequently worked as a Project Associate at the CiSTUP center at IISc Bangalore for one year, where I worked with Prof. [Tarun Rambha](https://cistup.iisc.ac.in/tarun/).
 
 ## Research Interests
 My research lies at the nexus of Operations Research, Machine Learning, and Public Policy, with a primary focus on designing robust and sustainable transportation systems. I develop data-driven methodologies to enhance collaborative logistics and operational reliability, aiming to create adaptive networks that can effectively mitigate delays and uncertainties. 
