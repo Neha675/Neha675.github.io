@@ -1,0 +1,16 @@
+<header class="site-header" role="banner">
+    <div class="wrapper">
+      
+      <div class="trigger">
+        <a class="page-link" href="{{ '/' | relative_url }}">about</a>
+        <a class="page-link" href="{{ '/publications/' | relative_url }}">publications</a>
+  
+        <a class="page-link" href="{{ '/fun/' | relative_url }}">outdoor fun</a>
+  
+        {% if site.cv_link %}
+          <a class="page-link" href="{{ site.cv_link | relative_url }}">cv</a>
+        {% endif %}
+      </div>
+  
+    </div>
+  </header>
