@@ -25,5 +25,4 @@ My research lies at the nexus of **Operations Research, Machine Learning, and Pu
 {% include_relative _includes/services.md %} -->
 <!-- <br>
 {% include_relative _includes/misc.md %} -->
-<br>
-{% include_relative _includes/fun.md %}
+
