@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a final year Ph.D. student at Carnegie Mellon University. I am very fortunate to be advised by Prof. [Alan Montgomery](https://scholars.cmu.edu/186-alan-montgomery) and Prof. [Peter Zhang](https://www.andrew.cmu.edu/user/yunz2/index.html). Prior to starting my PhD, I completed my undergraduate degree in Mathematics and Computing at [IIT Kharagpur](https://www.iitkgp.ac.in/).
+I am a final year Ph.D. student at Carnegie Mellon University. I am very fortunate to be advised by Prof. [Alan Montgomery](https://scholars.cmu.edu/186-alan-montgomery) and Prof. [Peter Zhang](https://www.andrew.cmu.edu/user/yunz2/index.html). Prior to starting my PhD, I completed my five-year integrated B.Sc. and M.Sc. degree in Mathematics and Computing at [IIT Kharagpur](https://www.iitkgp.ac.in/).
 
-Following my undergraduate studies, I spent two years at the Xerox Research Centre in Bangalore working in the Algorithms and Optimization group. I subsequently worked as a Project Associate at the CiSTUP center at IISc Bangalore for one year, where I worked with Prof. [Tarun Rambha](https://cistup.iisc.ac.in/tarun/).
+Following my studies, I spent two years at the Xerox Research Centre in Bangalore working in the Algorithms and Optimization group. I subsequently worked as a Project Associate at the CiSTUP center at IISc Bangalore for one year, where I worked with Prof. [Tarun Rambha](https://cistup.iisc.ac.in/tarun/).
 
 ## Research Interests
 My research in Machine Learning for Natural Language Processing (NLP) focuses on enhancing performance of Large Language Models. I've worked on integrating knowledge graphs to improve reasoning in question-answering, optimizing coreference resolution efficiency. Currently, I’m interested in adaptively applying inference-time compute to improve long-form generation, embeddings, and other tasks. 
