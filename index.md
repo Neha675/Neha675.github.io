@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a final year Ph.D. student at Carnegie Mellon University. I am very fortunate to be advised by Prof. [Alan Montgomery](https://scholars.cmu.edu/186-alan-montgomery) and Prof. [Peter Zhang](https://www.andrew.cmu.edu/user/yunz2/index.html). Prior to starting my PhD, I completed my five-year integrated B.Sc. and M.Sc. degree in Mathematics and Computing at [IIT Kharagpur](https://www.iitkgp.ac.in/). For my master's thesis, I was advised by Prof. [Bibhas Adhikari](https://www.linkedin.com/in/bibhas-adhikari-422a3620b/) in the area of Social Network Analysis.
+I am a final-year Ph.D. candidate in Operations Management at the Tepper School of Business, Carnegie Mellon University. I am very fortunate to be advised by Prof. [Alan Montgomery](https://scholars.cmu.edu/186-alan-montgomery) and Prof. [Peter Zhang](https://www.andrew.cmu.edu/user/yunz2/index.html). Prior to starting my PhD, I completed my five-year integrated B.Sc. and M.Sc. degree in Mathematics and Computing at [IIT Kharagpur](https://www.iitkgp.ac.in/). For my master's thesis, I was advised by Prof. [Bibhas Adhikari](https://www.linkedin.com/in/bibhas-adhikari-422a3620b/) in the area of Social Network Analysis.
 
 My research lies at the nexus of **Operations Research, Machine Learning, and Public Policy**, with a primary focus on designing **robust and sustainable transportation systems**. I develop **data-driven methodologies** to enhance **collaborative logistics** and operational reliability, aiming to create adaptive networks that can effectively mitigate delays and uncertainties.
 
