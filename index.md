@@ -4,9 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a final year Ph.D. student at Carnegie Mellon University. I am very fortunate to be advised by Prof. [Alan Montgomery](https://scholars.cmu.edu/186-alan-montgomery) and Prof. [Peter Zhang](https://www.andrew.cmu.edu/user/yunz2/index.html). Prior to starting my PhD, I completed my five-year integrated B.Sc. and M.Sc. degree in Mathematics and Computing at [IIT Kharagpur](https://www.iitkgp.ac.in/).
+I am a final year Ph.D. student at Carnegie Mellon University. I am very fortunate to be advised by Prof. [Alan Montgomery](https://scholars.cmu.edu/186-alan-montgomery) and Prof. [Peter Zhang](https://www.andrew.cmu.edu/user/yunz2/index.html). Prior to starting my PhD, I completed my five-year integrated B.Sc. and M.Sc. degree in Mathematics and Computing at [IIT Kharagpur](https://www.iitkgp.ac.in/). For my master's thesis, I was advised by Prof. [Bibhas Adhikari](https://www.linkedin.com/in/bibhas-adhikari-422a3620b/) in the area of Social Network Analysis.
 
-Following my studies, I spent two years at the Xerox Research Centre in Bangalore working in the Algorithms and Optimization group. I subsequently worked as a Project Associate at the CiSTUP center at IISc Bangalore for one year, where I worked with Prof. [Tarun Rambha](https://cistup.iisc.ac.in/tarun/).
+My research lies at the nexus of **Operations Research, Machine Learning, and Public Policy**, with a primary focus on designing **robust and sustainable transportation systems**. I develop **data-driven methodologies** to enhance **collaborative logistics** and operational reliability, aiming to create adaptive networks that can effectively mitigate delays and uncertainties.
+
+Prior to my doctoral studies, I spent two years at the Xerox Research Centre in Bangalore working in the Algorithms and Optimization group, where I collaborated with Dr. [Koyel Mukherjee](https://research.adobe.com/person/koyel-mukherjee/). I subsequently worked as a Project Associate at the CiSTUP center at IISc Bangalore for one year, where I worked with Prof. [Tarun Rambha](http://civil.iisc.ac.in/~tarunr/).
 
 ## Research Interests
 My research lies at the nexus of Operations Research, Machine Learning, and Public Policy, with a primary focus on designing robust and sustainable transportation systems. I develop data-driven methodologies to enhance collaborative logistics and operational reliability, aiming to create adaptive networks that can effectively mitigate delays and uncertainties. 
