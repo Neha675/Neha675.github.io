@@ -9,19 +9,19 @@
   </li>
   <li>
     <autocolor>
-      <strong>Badminton & Sports:</strong> I am passionate about badminton adn any sports in general. 
+      <strong>Badminton & Sports:</strong> I am passionate about badminton and any sports in general. 
       I hold a District Level Gold medal in Singles and a Silver medal in Doubles for Badminton (India). 
       Always up for a match!
     </autocolor>
   </li>
   <li>
     <autocolor>
-      <strong>Arts & Dance:</strong> I hold a Diploma in Kathak dance.
+      <strong>Arts & Dance:</strong> I hold a Diploma in Kathak.
     </autocolor>
   </li>
   <li>
     <autocolor>
-      <strong>Reading:</strong> In my free time, I enjoy reading fiction. 
+      <strong>Reading:</strong> In my free time, I enjoy reading fiction and recently picked up non-fiction as well. 
       My favorite author is Khaled Hosseini, and my top novels are <em>The Fountainhead</em> by Ayn Rand and <em>And the Mountains Echoed</em> by Khaled Hosseini.
     </autocolor>
   </li>
