@@ -9,25 +9,15 @@ I am a final year Ph.D. student at Carnegie Mellon University. I am very fortuna
 Following my studies, I spent two years at the Xerox Research Centre in Bangalore working in the Algorithms and Optimization group. I subsequently worked as a Project Associate at the CiSTUP center at IISc Bangalore for one year, where I worked with Prof. [Tarun Rambha](https://cistup.iisc.ac.in/tarun/).
 
 ## Research Interests
-My research in Machine Learning for Natural Language Processing (NLP) focuses on enhancing performance of Large Language Models. I've worked on integrating knowledge graphs to improve reasoning in question-answering, optimizing coreference resolution efficiency. Currently, I’m interested in adaptively applying inference-time compute to improve long-form generation, embeddings, and other tasks. 
-
-## News
-- **[Nov. 2025]** Summers 25 internship work with FAIR, 'TGSIE' on Arxiv.
-- **[Oct. 2025]** 'ACPO' accepted as **Oral** presentaion at IJCNLP-AACL.
-- **[Sept. 2025]** 'B3' accepted as a **Spotlight** presentation at NeurIPS 2025 
-- **[May. 2025]** Presented 'GenEOL' at NAACL 2025. 
-- **[Dec. 2024]** Presented 'Atomic Self-Consistency' at EMNLP 2024. 
-- **[June. 2024]** Presented 'Summary Transformation for Contrastive Learning' at NAACL.
-- **[May. 2024]** Presented 'Sequence Reducible Holdout Loss for LM Pretraining' at COLING.
-- **[Apr. 2024]** Presented 'Atomic Self-Consistency' at the SouthNLPSymposium (**Oral**).
+My research lies at the nexus of Operations Research, Machine Learning, and Public Policy, with a primary focus on designing robust and sustainable transportation systems. I develop data-driven methodologies to enhance collaborative logistics and operational reliability, aiming to create adaptive networks that can effectively mitigate delays and uncertainties. 
 
 ## Awards
-- Best Ph.D. Preliminary Research Exam Award, Duke Computer Science (2024–2025).
+- William Larimer Mellon Fellowship, 2019-2024.
+- Recipient of Mitacs GlobalInk Fellowship Grant 2015.
+- INSPIRE scholarship and mentorship grants from Department of Science \& Technology, Government of India for outstanding academic performance in 4 consecutive years, 2012-2016.
 
 ## Talks
-- **[Dec. 2025]** 'B3' lightning talk at Salesforce booth, NeurIPS 2025.
-- **[Oct. 2025]** Invited talk for 'B3' at Microsoft Research India
-- **[July. 2025]** Presented 'B3' in AI Orgs Reading @ Meta AI
+- **[Oct. 2025]** Presented 'Optimizing School Bus Pickups with Third-Party Coordination and Delay Prediction' at INFORMS Annual Meeting 2025. 
   
 <br>
 <!-- {% include_relative _includes/publications.md %} -->
