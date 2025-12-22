@@ -9,7 +9,7 @@
   </li>
   <li>
     <autocolor>
-      <strong>Badminton & Sports:</strong> I am passionate about badminton and any sports in general. 
+      <strong>Badminton & Sports:</strong> I am passionate about Badminton and any sports in general. 
       I hold a District Level Gold medal in Singles and a Silver medal in Doubles for Badminton (India). 
       Always up for a match!
     </autocolor>
