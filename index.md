@@ -4,10 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a final year Ph.D. student at Carnegie Mellon University. I am very fortunate to be advised by Prof. [Alan Montgomery](https://users.cs.duke.edu/~bdhingra/) and Prof. [Peter Zhang](https://users.cs.duke.edu/~bdhingra/). Prior to starting my PhD, I completed my undergraduate degree in Mathematics and Computing at [IIT Kharagpur](https://www.iitkgp.ac.in/).
+I am a final year Ph.D. student at Carnegie Mellon University. I am very fortunate to be advised by Prof. [Alan Montgomery](https://scholars.cmu.edu/186-alan-montgomery) and Prof. [Peter Zhang](https://www.andrew.cmu.edu/user/yunz2/index.html). Prior to starting my PhD, I completed my undergraduate degree in Mathematics and Computing at [IIT Kharagpur](https://www.iitkgp.ac.in/).
 
-After my undergrad I spent 2 years at Xerox Research Centre in Bangalore working on some text and graph problems. Over the years, I've interned at multiple places including [FAIR](https://ai.meta.com/research/), [MetaAI](https://ai.meta.com/research/), [XRCI](https://india.news.xerox.com/2015/03/01/xerox-research-centre-india-concludes-xrci-open-2015/), [IESL](https://www.iesl.cs.umass.edu/).
-
+Following my undergraduate studies, I spent two years at the Xerox Research Centre in Bangalore working in the Algorithms and Optimization group. I subsequently worked as a Project Associate at the CiSTUP center at IISc Bangalore for one year, where I worked with Prof. [Tarun Rambha](https://cistup.iisc.ac.in/tarun/).
 
 ## Research Interests
 My research in Machine Learning for Natural Language Processing (NLP) focuses on enhancing performance of Large Language Models. I've worked on integrating knowledge graphs to improve reasoning in question-answering, optimizing coreference resolution efficiency. Currently, I’m interested in adaptively applying inference-time compute to improve long-form generation, embeddings, and other tasks. 
@@ -31,8 +30,8 @@ My research in Machine Learning for Natural Language Processing (NLP) focuses on
 - **[July. 2025]** Presented 'B3' in AI Orgs Reading @ Meta AI
   
 <br>
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %} -->
 <br>
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
 <br>
 {% include_relative _includes/misc.md %}
