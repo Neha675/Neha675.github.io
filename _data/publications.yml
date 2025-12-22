@@ -5,7 +5,7 @@ main:
     conference: In preparation for submission to Transportation Research Part C
     pdf: #
     code: #
-    image: ./assets/img/schoolbus_opt.png
+    # image: ./assets/img/schoolbus_opt.png
 
   - title: "School Bus Sharing Across School Districts"
     authors: <strong>N. Singh</strong>, Peter Zhang, Hai Wang
@@ -13,7 +13,7 @@ main:
     conference: In preparation
     pdf: #
     code: #
-    image: ./assets/img/bus_sharing.png
+    # image: ./assets/img/bus_sharing.png
 
   - title: "Conditional Promotion Offers to Encourage Loyalty"
     authors: <strong>N. Singh</strong>, Alan Montgomery
@@ -21,7 +21,7 @@ main:
     conference: In preparation
     pdf: #
     code: #
-    image: ./assets/img/promo_loyalty.png
+    # image: ./assets/img/promo_loyalty.png
 
   - title: "Offline Optimization of Cab Supply for Ride-Sharing Applications using Hypergraph Matching"
     authors: <strong>N. Singh</strong>, Tarun Rambha
@@ -29,7 +29,7 @@ main:
     conference: Accepted for publication in World Conference on Transport Research (WCTR 2019)
     pdf: #
     code: #
-    image: ./assets/img/wctr_cab.png
+    # image: ./assets/img/wctr_cab.png
 
   - title: "Method and system for dynamic trust model for personalized recommendation system in shared and non-shared economy"
     authors: <strong>N. Singh</strong>, Saurabh Srivastava
@@ -37,7 +37,7 @@ main:
     conference: U.S. Patent, 20180003US01 (Filed November 2018)
     pdf: #
     code: #
-    image: ./assets/img/patent_trust.png
+    # image: ./assets/img/patent_trust.png
 
   - title: "Xhare-A-Ride (XAR): An efficient dynamic ride sharing service for Multi-modal trip planner"
     authors: <strong>N. Singh</strong>, Koyel Mukherjee, Raja Subramaniam Thangaraj 
@@ -45,4 +45,4 @@ main:
     conference: Poster presentation at COMSNETS 2017
     pdf: #
     code: #
-    image: ./assets/img/xhar.png
+    # image: ./assets/img/xhar.png
