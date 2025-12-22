@@ -18,11 +18,13 @@ My research lies at the nexus of **Operations Research, Machine Learning, and Pu
 
 ## Talks
 - **[Oct. 2025]** Presented 'Optimizing School Bus Pickups with Third-Party Coordination and Delay Prediction' at INFORMS Annual Meeting 2025. 
-  
+
+[Fun]({{ '/fun/' | relative_url }})
+
 <br>
 {% include_relative _includes/publications.md %}
 <!-- <br>
 {% include_relative _includes/services.md %} -->
-<br>
-{% include_relative _includes/misc.md %}
+<!-- <br>
+{% include_relative _includes/misc.md %} -->
 
