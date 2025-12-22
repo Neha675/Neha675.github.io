@@ -2,9 +2,7 @@
 layout: page
 title: Outdoor Fun
 permalink: /fun/
-description: Life outside the lab.
-nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 <ul style="margin:0 0 5px;">

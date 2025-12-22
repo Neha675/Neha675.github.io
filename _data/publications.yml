@@ -1,6 +1,6 @@
 main:
   - title: "Optimizing School Bus Pickups with Third-Party Coordination and Delay Prediction"
-    authors: <strong>N. Singh</strong>, Holly Wiberg, Peter Zhang
+    authors: <strong>Neha</strong>, Holly Wiberg, Peter Zhang
     conference_short: In Prep
     conference: In preparation for submission to Transportation Research Part C
     pdf: #
@@ -8,7 +8,7 @@ main:
     # image: ./assets/img/schoolbus_opt.png
 
   - title: "School Bus Sharing Across School Districts"
-    authors: <strong>N. Singh</strong>, Peter Zhang, Hai Wang
+    authors: <strong>Neha</strong>, Peter Zhang, Hai Wang
     conference_short: In Prep
     conference: In preparation
     pdf: #
@@ -16,7 +16,7 @@ main:
     # image: ./assets/img/bus_sharing.png
 
   - title: "Conditional Promotion Offers to Encourage Loyalty"
-    authors: <strong>N. Singh</strong>, Alan Montgomery
+    authors: <strong>Neha</strong>, Alan Montgomery
     conference_short: In Prep
     conference: In preparation
     pdf: #
@@ -24,7 +24,7 @@ main:
     # image: ./assets/img/promo_loyalty.png
 
   - title: "Offline Optimization of Cab Supply for Ride-Sharing Applications using Hypergraph Matching"
-    authors: <strong>N. Singh</strong>, Tarun Rambha
+    authors: <strong>Neha</strong>, Tarun Rambha
     conference_short: WCTR
     conference: Accepted for publication in World Conference on Transport Research (WCTR 2019)
     pdf: #
@@ -32,7 +32,7 @@ main:
     # image: ./assets/img/wctr_cab.png
 
   - title: "Method and system for dynamic trust model for personalized recommendation system in shared and non-shared economy"
-    authors: <strong>N. Singh</strong>, Saurabh Srivastava
+    authors: <strong>Neha</strong>, Saurabh Srivastava
     conference_short: Patent
     conference: U.S. Patent, 20180003US01 (Filed November 2018)
     pdf: #
@@ -40,7 +40,7 @@ main:
     # image: ./assets/img/patent_trust.png
 
   - title: "Xhare-A-Ride (XAR): An efficient dynamic ride sharing service for Multi-modal trip planner"
-    authors: <strong>N. Singh</strong>, Koyel Mukherjee, Raja Subramaniam Thangaraj 
+    authors: <strong>Neha</strong>, Koyel Mukherjee, Raja Subramaniam Thangaraj 
     conference_short: COMSNETS
     conference: Poster presentation at COMSNETS 2017
     pdf: #
