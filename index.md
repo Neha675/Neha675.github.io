@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a final-year Ph.D. candidate in Operations Management at the Tepper School of Business, Carnegie Mellon University. I am very fortunate to be advised by Prof. [Alan Montgomery](https://scholars.cmu.edu/186-alan-montgomery) and Prof. [Peter Zhang](https://www.andrew.cmu.edu/user/yunz2/index.html). Prior to starting my PhD, I completed my five-year integrated B.Sc. and M.Sc. degree in Mathematics and Computing at [IIT Kharagpur](https://www.iitkgp.ac.in/). For my master's thesis, I was advised by Prof. [Bibhas Adhikari](https://www.linkedin.com/in/bibhas-adhikari-422a3620b/) in the area of Social Network Analysis.
+I am a final-year Ph.D. candidate in Operations Management at the Tepper School of Business, Carnegie Mellon University. I am very fortunate to be advised by Prof. [Alan Montgomery](https://scholars.cmu.edu/186-alan-montgomery) and Prof. [Peter Zhang](https://www.andrew.cmu.edu/user/yunz2/index.html). Prior to starting my PhD, I completed my five-year integrated B.S. and M.S. degree in Mathematics and Computing at [IIT Kharagpur](https://www.iitkgp.ac.in/). For my Master's thesis, I was advised by Prof. [Bibhas Adhikari](https://www.linkedin.com/in/bibhas-adhikari-422a3620b/) in the area of Social Network Analysis.
 
-Prior to my doctoral studies, I worked as a Research Engineer for two years in the Algorithms and Optimization group at the Xerox Research Centre in Bangalore, working with Dr. [Koyel Mukherjee](https://research.adobe.com/person/koyel-mukherjee/). I subsequently worked as a Project Associate at the [CiSTUP](https://cistup.iisc.ac.in/) center at IISc Bangalore for one year, where I worked with Prof. [Tarun Rambha](https://cistup.iisc.ac.in/tarun/).
+Prior to my doctoral studies, I worked as a Research Engineer for two years in the Algorithms and Optimization group at the Xerox Research Centre India in Bangalore, working with Dr. [Koyel Mukherjee](https://research.adobe.com/person/koyel-mukherjee/). I subsequently worked as a Project Associate at the [CiSTUP](https://cistup.iisc.ac.in/) center at IISc Bangalore for one year, where I worked with Prof. [Tarun Rambha](https://cistup.iisc.ac.in/tarun/).
 
 ## Research Interests
 My research lies at the nexus of **Operations Research, Machine Learning, and Public Policy**, with a primary focus on designing **robust and sustainable transportation systems**. I develop **data-driven methodologies** to enhance **collaborative logistics** and operational reliability, aiming to create adaptive networks that can effectively mitigate delays and uncertainties.
@@ -15,7 +15,7 @@ My research lies at the nexus of **Operations Research, Machine Learning, and Pu
 - Awarded the William W. Cooper Doctoral Dissertation Award, 2026.
 - Awarded William Larimer Mellon Fellowship support, 2019--2024.
 - Awarded the Mitacs Globalink Fellowship Grant, 2015.
-- Received the INSPIRE Scholarship and mentorship grants from the Department of Science \& Technology, Government of India, for outstanding academic performance, 2012--2016.
+- Received the INSPIRE Scholarship and mentorship grants from the Department of Science & Technology, Government of India, for outstanding academic performance, 2012--2016.
 
 ## Talks
 - **[Oct. 2025]** Presented 'Optimizing School Bus Pickups with Third-Party Coordination and Delay Prediction' at INFORMS Annual Meeting 2025. 
