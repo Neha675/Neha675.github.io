@@ -12,6 +12,7 @@ Prior to my doctoral studies, I worked as a Research Engineer for two years in t
 My research lies at the nexus of **Operations Research, Machine Learning, and Public Policy**, with a primary focus on designing **robust and sustainable transportation systems**. I develop **data-driven methodologies** to enhance **collaborative logistics** and operational reliability, aiming to create adaptive networks that can effectively mitigate delays and uncertainties.
 
 ## Awards
+- Recipient of the William W. Cooper Doctoral Dissertation Award, 2026.
 - William Larimer Mellon Fellowship, 2019-2024.
 - Recipient of Mitacs GlobalInk Fellowship Grant 2015.
 - INSPIRE scholarship and mentorship grants from Department of Science & Technology, Government of India for outstanding academic performance in 4 consecutive years, 2012-2016.
