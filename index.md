@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a final-year Ph.D. candidate in Operations Management at the Tepper School of Business, Carnegie Mellon University. I am very fortunate to be advised by Prof. [Alan Montgomery](https://scholars.cmu.edu/186-alan-montgomery) and Prof. [Peter Zhang](https://www.andrew.cmu.edu/user/yunz2/index.html). Prior to starting my PhD, I completed my five-year integrated B.S. and M.S. degree in Mathematics and Computing at [IIT Kharagpur](https://www.iitkgp.ac.in/). For my Master's thesis, I was advised by Prof. [Bibhas Adhikari](https://www.linkedin.com/in/bibhas-adhikari-422a3620b/) in the area of Social Network Analysis.
+I recently completed my Ph.D. in Operations Management with a minor in Operations Research at the Tepper School of Business, Carnegie Mellon University. I am very fortunate to be advised by Prof. [Alan Montgomery](https://scholars.cmu.edu/186-alan-montgomery) and Prof. [Peter Zhang](https://www.andrew.cmu.edu/user/yunz2/index.html). Prior to starting my PhD, I completed my five-year integrated B.S. and M.S. degree in Mathematics and Computing at [IIT Kharagpur](https://www.iitkgp.ac.in/). For my Master's thesis, I was advised by Prof. [Bibhas Adhikari](https://www.linkedin.com/in/bibhas-adhikari-422a3620b/) in the area of Social Network Analysis.
 
 Prior to my doctoral studies, I worked as a Research Engineer for two years in the Algorithms and Optimization group at the Xerox Research Centre India in Bangalore, working with Dr. [Koyel Mukherjee](https://research.adobe.com/person/koyel-mukherjee/). I subsequently worked as a Project Associate at the [CiSTUP](https://cistup.iisc.ac.in/) center at IISc Bangalore for one year, where I worked with Prof. [Tarun Rambha](https://cistup.iisc.ac.in/tarun/).
 
